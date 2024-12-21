@@ -19,25 +19,25 @@ importers:
         version: 19.0.0(react@19.0.0)
     devDependencies:
       '@eslint/eslintrc':
-        specifier: ^3
+        specifier: ^3.2.0
         version: 3.2.0
       '@types/node':
         specifier: ^22.10.2
         version: 22.10.2
       '@types/react':
-        specifier: ^19
+        specifier: ^19.0.2
         version: 19.0.2
       '@types/react-dom':
-        specifier: ^19
+        specifier: ^19.0.2
         version: 19.0.2(@types/react@19.0.2)
       eslint:
-        specifier: ^9
+        specifier: ^9.17.0
         version: 9.17.0
       eslint-config-next:
         specifier: 15.1.2
         version: 15.1.2(eslint@9.17.0)(typescript@5.7.2)
       typescript:
-        specifier: ^5
+        specifier: ^5.7.2
         version: 5.7.2
 
 packages:
