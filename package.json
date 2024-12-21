@@ -2,6 +2,10 @@
   "name": "next-eslint-plugin-import-demo",
   "version": "0.1.0",
   "private": true,
+  "volta": {
+    "node": "22.12.0",
+    "pnpm": "9.15.1"
+  },
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
